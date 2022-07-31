@@ -19,6 +19,11 @@ This application makes up the back end for an internet retail company that uses 
 
 
 ## Preview 📸
+Category Routes:
+
+Product Routes:
+
+Tag Route:
 
 
 
