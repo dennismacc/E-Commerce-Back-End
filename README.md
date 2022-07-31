@@ -1,5 +1,6 @@
 # E-Commerce-Back-End
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Built out back end for an internet retail company that makes them a stronger competitor with other internet retail companies.
 
 
